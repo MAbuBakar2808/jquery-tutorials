@@ -5,9 +5,10 @@
     <title>Demo</title>
 </head>
 <body>
-    <iframe src="www.google.com.pk"></iframe>
+    <img id="image" src="hqdefault.jpg" height="150" width="140" />
     <script  src="jquery.js"></script>
-    <script  src="load.js"></script>
+    <script  src="window.js"></script>
+    
 
 </body>
 </html>
